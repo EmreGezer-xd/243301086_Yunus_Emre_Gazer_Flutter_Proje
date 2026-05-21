@@ -1,4 +1,4 @@
-# Kariyer Koçu (Career Coach) - Mobil Mentorluk Platformu
+# Kariyer Koçu  - Mobil Mentorluk Platformu
 
 Bu proje, öğrencilerin kariyer hedeflerini, ders çalışma planlarını ve gelişim süreçlerini bulut altyapısıyla takip edebilecekleri; eğitim koçlarının (hocaların) ise öğrencileri doğrudan senkronize bir şekilde izleyebilecekleri premium bir mentorluk platformudur.
 
